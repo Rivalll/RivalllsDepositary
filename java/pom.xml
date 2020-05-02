@@ -12,4 +12,11 @@
     <artifactId>java</artifactId>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>org.springframework.context</artifactId>
+            <version>3.2.2.RELEASE</version>
+        </dependency>
+    </dependencies>
 </project>
