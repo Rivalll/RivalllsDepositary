@@ -6,11 +6,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="algorithm" />
+        <module name="designpattern" />
         <module name="java" />
+        <module name="mongodb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="algorithm" target="1.8" />
+      <module name="designpattern" target="1.8" />
       <module name="java" target="1.8" />
+      <module name="mongodb" target="1.8" />
       <module name="RivalllsDepositary" target="1.8" />
     </bytecodeTargetLevel>
   </component>

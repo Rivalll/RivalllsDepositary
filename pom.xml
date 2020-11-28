@@ -10,6 +10,9 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>java</module>
+        <module>designpattern</module>
+        <module>mongodb</module>
+        <module>algorithm</module>
     </modules>
 
 

@@ -3,7 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/RivalllsDepositary.iml" filepath="$PROJECT_DIR$/.idea/RivalllsDepositary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/algorithm/algorithm.iml" filepath="$PROJECT_DIR$/algorithm/algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designpattern/designpattern.iml" filepath="$PROJECT_DIR$/designpattern/designpattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/java/java.iml" filepath="$PROJECT_DIR$/java/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb/mongodb.iml" filepath="$PROJECT_DIR$/mongodb/mongodb.iml" />
     </modules>
   </component>
 </project>
