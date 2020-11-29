@@ -13,6 +13,7 @@
         <module>designpattern</module>
         <module>mongodb</module>
         <module>algorithm</module>
+        <module>redis</module>
     </modules>
 
 
